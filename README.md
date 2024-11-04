@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет, я Jellinek ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<!--
-**leGrandJellinek/leGrandJellinek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 О себе
+Я Front-end разработчик с опытом работы. Использую Vue.js для своих проектов.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии
+- **Языки программирования**: JavaScript, Typescript, PHP
+- **Фреймворки и библиотеки**: Node.js, Vue.js.
+- **Инструменты**: Vite, Vuetify, Git, 
+
+## 🌟 Проекты
+- Скоро заполню :3
+
+## 📫 Как со мной связаться
+- [Telegram](https://t.me/leGrandJVW)
+- Email: [jellinekbraus@gmail.com](mailto:jellinekbraus@gmail.com)
+
+## 🎉 Спасибо за визит!
+Я всегда открыт для новых идей и сотрудничества. Если у вас есть вопросы или предложения, не стесняйтесь писать!
