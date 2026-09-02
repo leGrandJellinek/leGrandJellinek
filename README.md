@@ -4,9 +4,9 @@
 Я Front-end разработчик с опытом работы. В основном использую Vue.js для своих проектов. Сильные навыки верстки сайтов с использованием современных технологий и методологий.
 
 ## 🛠️ Технологии
-- **Языки программирования**: JavaScript, Typescript, PHP, Dart.
-- **Фреймворки и библиотеки**: Node.js, Vue.js, Flutter.
-- **Инструменты**: Vite, Vuetify, Webpack, Git.
+- **Языки программирования**: Golang, JavaScript/Typescript, PHP, Dart.
+- **Фреймворки и библиотеки**: Node.js, Vue.js, Laravel, Flutter.
+- **Инструменты**: Vite, Vuetify, Webpack, Git, Docker, K8S.
 
 ## 📫 Как со мной связаться
 - [Telegram](https://t.me/leGrandJVW)
