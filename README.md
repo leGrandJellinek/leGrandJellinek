@@ -10,7 +10,7 @@ Flutter для мобильных.
 - **Инструменты**: Vite, Vuetify, Webpack, Git, Docker, K8S.
 
 ## 📫 Как со мной связаться
-- [Telegram](https://t.me/leGrandJVW)
+- Telegram: [@leGrandJVW](https://t.me/leGrandJVW)
 - Email: [jellinekbraus@gmail.com](mailto:jellinekbraus@gmail.com)
 
 ## 🎉 Спасибо за визит!
