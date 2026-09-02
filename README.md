@@ -8,9 +8,6 @@
 - **Фреймворки и библиотеки**: Node.js, Vue.js, Flutter.
 - **Инструменты**: Vite, Vuetify, Webpack, Git.
 
-## 🌟 Проекты
-- Скоро заполню
-
 ## 📫 Как со мной связаться
 - [Telegram](https://t.me/leGrandJVW)
 - Email: [jellinekbraus@gmail.com](mailto:jellinekbraus@gmail.com)
